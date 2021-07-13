@@ -1,0 +1,11 @@
+.card {
+  @apply m-4 p-6 sm:w-[45%] text-left border border-[#eaeaea] rounded-lg transition-colors duration-150 hover:text-point hover:border-point;
+}
+
+.card h2 {
+  @apply mt-4 text-2xl;
+}
+
+.card p {
+  @apply mt-3 text-xl;
+}
